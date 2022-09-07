@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Berik Kumayev
+#### QA Automation/Manual Engineer 
+![QA Automation/Manual Engineer ](www.linkedin.com/in/berik-kumayev)
 
-I am Berik currently reside in California, San Jose. I do Automation/Manual testing for websites and web applications, I really enjoy working and learning with tools such as Selenium WebDriver, Selenium IDE, Postman API, Lighthouse, also other tools Swagger, GTMetrix and Webpagetest, SpeedLab. Programming languages: Python, JavaScript, SQL, XPath, XML, HTML5, CSS3, JSON using methodologies Agile/Scrum, Waterfall. For Documentation tools: Confluence, MS Office, Google Drive, Notepad++ and GitHub. Bug tracking tools: Jira, Microsoft CRM, Confluence
+I am Berik currently reside in California, San Jose. I do Automation/Manual testing for websites and web applications, I really enjoy being part of this environment and making product function well.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berik-k)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Selenium WebDriver, Selenium IDE, Postman API, Swagger, GTMetrix, Lighthouse, Webpagetest, SpeedLab, Python, JavaScript, SQL, MySQL, XPath, XML, HTML5, CSS3, JSON ,Agile, SCRUM, Waterfall, Confluence, MS Office, Google Drive, Notepad++, GitHub, Jira, Microsoft CRM, Confluence, Mozilla Observatory, Snyk, Google Chrome, Safari, Mozilla Firefox, Edge, Internet Explorer, Windows, MacOS, iOS, Android, PyCharm, WebStorm, Atom, Sublime Text, Chrome Dev tools, Notepad++, Git, GitHub
+
+- 🔭 I’m currently working on ITG Telecommunications 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/berik-k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/berik-kumayev/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=berik-k&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/berik-k)  
