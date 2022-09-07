@@ -6,7 +6,7 @@ I am Berik currently reside in California, San Jose. I do Automation/Manual test
 
 Skills: Selenium WebDriver, Selenium IDE, Postman API, Swagger, GTMetrix, Lighthouse, Webpagetest, SpeedLab, Python, JavaScript, SQL, MySQL, XPath, XML, HTML5, CSS3, JSON ,Agile, SCRUM, Waterfall, Confluence, MS Office, Google Drive, Notepad++, GitHub, Jira, Microsoft CRM, Confluence, Mozilla Observatory, Snyk, Google Chrome, Safari, Mozilla Firefox, Edge, Internet Explorer, Windows, MacOS, iOS, Android, PyCharm, WebStorm, Atom, Sublime Text, Chrome Dev tools, Notepad++, Git, GitHub
 
-- 🔭 I’m currently working on ITG Telecommunications 
+- 🔭 I’m currently working at ITG Telecommunications 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/berik-k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/berik-kumayev/)  
