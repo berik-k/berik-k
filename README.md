@@ -5,9 +5,22 @@
 I am Berik currently reside in California, San Jose. I do Automation/Manual testing for websites and web applications, I really enjoy being part of this environment and making product function well.
 
 Skills and Experience
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#CF0A2C" d="M83.1 80.5c-4.7-.1-8.8 3.4-9.3 8.1 0 .2.1.3.3.3h18c.2 0 .3-.1.3-.3-.4-4.8-4.5-8.4-9.3-8.1z"/><path fill="#CF0A2C" d="M121.7 19.9l-38.4 43c-.4.5-1.2.5-1.7.1l-.1-.1-19.4-20.1c-.4-.4-.4-1-.1-1.5l6.5-8.3c.4-.5 1.1-.7 1.6-.3.1.1.2.1.2.2l11 12.1c.4.5 1.2.5 1.7.1l.1-.1 30.7-41.7c.3-.4.2-.9-.2-1.2-.1-.1-.3-.1-.5-.2H5.7c-.5.1-.9.5-.9 1v122.2c0 .5.4.9.9.9h116.6c.5 0 .9-.4.9-.9V20.5c0-.5-.4-.8-.8-.8-.3-.1-.5 0-.7.2zm-83.8 92.5c-7.7.3-15.2-2.3-20.9-7.4-.4-.4-.5-1-.1-1.5l4.5-6.4c.4-.5 1.1-.6 1.6-.3l.1.1c4.2 3.9 9.6 6 15.3 6 6 0 8.9-2.8 8.9-5.7 0-9.1-29.5-2.8-29.5-22.1 0-8.5 7.4-15.6 19.4-15.6 6.9-.2 13.7 2.1 19.1 6.5.4.4.5 1.1.1 1.5l-4.7 6.2c-.4.5-1.1.6-1.6.2-4-3.2-8.9-4.9-14-4.8-4.7 0-7.3 2.1-7.3 5.1 0 8.1 29.4 2.7 29.4 21.8.1 9.3-6.6 16.4-20.3 16.4zm64.3-17.8c0 .6-.5 1-1 1H74.3c-.2 0-.3.1-.3.3.9 5.2 5.6 8.8 10.9 8.5 3.4-.1 6.6-1.1 9.3-3.1.4-.3 1.1-.3 1.4.2l.1.1 3.3 4.8c.3.4.2 1-.2 1.4-4.3 3.2-9.6 4.8-14.9 4.6-11.6 0-20.3-7.8-20.3-20-.3-10.7 8.1-19.6 18.8-19.9h.9c11.3 0 19.1 8.5 19.1 20.9l-.2 1.2z"/></svg>
 
-Selenium WebDriver, Selenium IDE, Postman API, Swagger, GTMetrix, Lighthouse, Webpagetest, SpeedLab, Python, JavaScript, SQL, MySQL, XPath, XML, HTML5, CSS3, JSON ,Agile, SCRUM, Waterfall, Confluence, MS Office, Google Drive, Notepad++, GitHub, Jira, Microsoft CRM, Confluence, Mozilla Observatory, Snyk, Google Chrome, Safari, Mozilla Firefox, Edge, Internet Explorer, Windows, MacOS, iOS, Android, PyCharm, WebStorm, Atom, Sublime Text, Chrome Dev tools, Notepad++, Git, GitHub
+![5879127](https://user-images.githubusercontent.com/111834539/188842672-e7908693-e5b5-4998-b877-2d2fd0263cc0.png) ![68747470733a2f2f643268316e626d77316a6a6e6c2e636c6f756466726f6e742e6e65742f636f6d70616e795f6469726563746f72795f656e74726965732f636f6d70616e795f6c6f676f732f3030302f3030302f3332382f6f726967696e616c2f62737461636b5f32782e706e673f31353832](https://user-images.githubusercontent.com/111834539/188842739-bea7bb3d-5b4d-4fd4-8f9f-3b2e12623539.png)
+![css3-logo-png-transparent](https://user-images.githubusercontent.com/111834539/188842792-27b013c2-31bd-4230-aa7f-fe45d087b6f0.png)
+![download (1)](https://user-images.githubusercontent.com/111834539/188842874-683f1cbc-c711-4c3e-89fc-fbed66ce6d67.png)
+![download (2)](https://user-images.githubusercontent.com/111834539/188842926-abd53de7-576a-4c4c-85d1-fe45d0ff43e8.png)
+![download (3)](https://user-images.githubusercontent.com/111834539/188842994-3e9bc08e-71c7-4c97-b3f9-a6fe29a1ce96.png)
+![download (3)](https://user-images.githubusercontent.com/111834539/188843020-40b064d6-3e45-40a4-a6cd-46401444a0e0.png)
+![download (3)](https://user-images.githubusercontent.com/111834539/188843038-a26cb065-1af8-479e-bb9c-4bd36724bc30.png)
+![download](https://user-images.githubusercontent.com/111834539/188843064-ebddcdce-cafd-4dff-92c8-1ac91b88282e.png)
+![icons8-selenium-80](https://user-images.githubusercontent.com/111834539/188843095-aaa41990-9452-4d55-8d30-c986ac92475a.png)
+![images (1)](https://user-images.githubusercontent.com/111834539/188843137-521b0d60-8d3b-4d99-8c5b-83d2954a5e09.png)
+![images](https://user-images.githubusercontent.com/111834539/188843171-98ccc33d-526a-4662-a2ce-6e79da470871.png)
+![images](https://user-images.githubusercontent.com/111834539/188843195-e3161a81-fc9d-4987-bfe0-0ad71a362349.png)
+![nodejs-logo-FBE122E377-seeklogo com](https://user-images.githubusercontent.com/111834539/188843220-39fada2e-6aec-41f1-855f-c9296d1d0637.png)
+![postman-icon](https://user-images.githubusercontent.com/111834539/188843251-e141de58-69ad-4036-a922-b4eb53e7575c.png)
+![python](https://user-images.githubusercontent.com/111834539/188843289-b0f2ffcb-72c7-4e75-998d-9b43e028295d.png)
 
 - 🔭 I’m currently working at ITG Telecommunications 
 
