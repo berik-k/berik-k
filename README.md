@@ -1,6 +1,7 @@
-### Hi there 👋, 
 #### QA Automation/Manual Engineer 
 (www.linkedin.com/in/berik-kumayev)
+
+### Hi there 👋,
 
 
 I am Berik currently reside in California, San Jose. I do Automation/Manual testing for websites and web applications, I really enjoy being part of this environment and making product function well.
