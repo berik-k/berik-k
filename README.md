@@ -1,12 +1,13 @@
 #### QA Automation/Manual Engineer 
-(www.linkedin.com/in/berik-kumayev)
+
 
 ### Hi there 👋,
 
 
-I am Berik currently reside in California, San Jose. I do Automation/Manual testing for websites and web applications, I really enjoy being part of this environment and making product function well.
+I am Berik currently reside in California, San Jose. I do Manual/Automation testing for websites and web applications, I really enjoy being part of this environment and making product function well for great purposes.
 
-Skills: , Selenium IDE, Postman API, Swagger, GTMetrix, Lighthouse, Webpagetest, SpeedLab, Python, JavaScript, SQL, MySQL, XPath, XML, HTML5, CSS3, JSON ,Agile, SCRUM, Waterfall, Confluence, MS Office, Google Drive, Notepad++, GitHub, Jira, Microsoft CRM, Confluence, Mozilla Observatory, Snyk, Google Chrome, Safari, Mozilla Firefox, Edge, Internet Explorer, Windows, MacOS, iOS, Android, PyCharm, WebStorm, Atom, Sublime Text, Chrome Dev tools, Notepad++, Git, GitHub
+Connect with me at:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 - 🔭 I’m currently working on ITG Telecommunications 
 
