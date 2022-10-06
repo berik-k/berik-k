@@ -1,4 +1,5 @@
-![pexels-sathesh-d-698808-min](https://user-images.githubusercontent.com/111834539/194415570-3f4e1a90-a43d-2f5c-98ce-dd553b0d222f.jpg)
+![pexels-sathesh-d-698808-min](https://user-images.githubusercontent.com/111834539/194415798-ae4e2524-1e9c-4bf2-aaf0-562228590536.jpg/1500x800)
+
 
 ### QA Manual/Automation Engineer 
 
