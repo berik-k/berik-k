@@ -1,8 +1,8 @@
 
-####### QA Manual/Automation Engineer 
+### QA Manual/Automation Engineer 
 
 
-##### Hi there 👋,
+### Hi there 👋,
 
 
 I am Berik currently reside in California, San Jose. I do Manual/Automation testing for websites and web applications, I really enjoy being part of this environment and making product function well for great purposes.
