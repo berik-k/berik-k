@@ -7,6 +7,7 @@
 I am Berik currently reside in California, San Jose. I do Manual/Automation testing for websites and web applications, I really enjoy being part of this environment and making product function well for great purposes.
 
 Connect with me at:
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 - 🔭 I’m currently working on ITG Telecommunications 
